@@ -1,11 +1,13 @@
 # SFToolboxPage
 
-Toolbox made for SalesForce Dev convenience
+A collection of utility tools designed to simplify and enhance the workflow of Salesforce developers.
 
-# Github Page URL
-[Here](https://bahialrabih.github.io/SFToolboxPage/)
+## 🔗 Live Site
 
-# Disclaimer
-This repository contains only the built/compiled version from the main React development repository. This is a deployment-ready build and not intended for development purposes.
+[https://bahialrabih.github.io/SFToolboxPage/](https://bahialrabih.github.io/SFToolboxPage/)
 
+## ⚠️ Disclaimer
 
+This repository contains only the static build of the project.
+
+This repository is intended **solely for deployment via GitHub Pages**.
