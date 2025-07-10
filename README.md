@@ -6,8 +6,14 @@ A collection of utility tools designed to simplify and enhance the workflow of S
 
 [https://bahialrabih.github.io/SFToolboxPage/](https://bahialrabih.github.io/SFToolboxPage/)
 
-## ⚠️ Disclaimer
+## CLI Deployment Tools
 
-This repository contains only the static build of the project.
+A collection of utilities designed to simplify and streamline the management of your deployment packages.
 
-This repository is intended **solely for deployment via GitHub Pages**.
+---
+
+### Available Tools
+
+* **Excel to Package.xml (Work in Progress)**: Convert Excel sheets into the `package.xml` format.
+* **Package.xml to Profiles**: Read a `package.xml` file to help configure and generate profile permission files for deployment.
+* **Package.xml Compare & Merge**: Compare two `package.xml` files side-by-side, identify differences, and merge them into a new file.
