@@ -14,6 +14,6 @@ A collection of utilities designed to simplify and streamline the management of 
 
 ### Available Tools
 
-* **Excel to Package.xml (Work in Progress)**: Convert Excel sheets into the `package.xml` format.
+* **Excel to Package.xml**: Convert Excel sheets into the `package.xml` format.
 * **Package.xml to Profiles**: Read a `package.xml` file to help configure and generate profile permission files for deployment.
 * **Package.xml Compare & Merge**: Compare two `package.xml` files side-by-side, identify differences, and merge them into a new file.
